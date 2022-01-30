@@ -1,0 +1,63 @@
+{
+    "name": "Aluracord - The Batman",
+    "theme": {
+      "colors": {
+        "primary": {
+          "050": "#FF8585",
+          "100": "#CC0000",
+          "200": "#B80000",
+          "300": "#A30000",
+          "400": "#8F0000",
+          "500": "#7A0000",
+          "600": "#660000",
+          "700": "#520000",
+          "800": "#3D0000",
+          "900": "#290000"
+        },
+        "neutrals": {
+          "000": "#FFFFFF",
+          "050": "#F5F7FA",
+          "100": "#E4E7EB",
+          "200": "#CBD2D9",
+          "300": "#9AA5B1",
+          "400": "#52667A",
+          "500": "#313D49",
+          "600": "#29333D",
+          "700": "#212931",
+          "800": "#181F25",
+          "900": "#140500",
+          "999": "#080A0C",
+          "1000": "#28A44D"
+        }
+      }
+    },
+    
+    "stickers": [
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_1.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_2.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_3.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_4.png",      
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_11.png",      
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_13.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_14.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_15.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_16.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_17.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_21.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_22.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_23.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_24.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_25.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_26.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_27.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_28.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_29.png",
+      "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_30.png",
+      "https://i0.wp.com/mrwgifs.com/wp-content/uploads/2014/12/Famous-Heath-Ledger-As-The-Joker-Clapping-For-James-Gordon-In-The-Dark-Knight.gif",
+      "https://c.tenor.com/s6s583hqPP4AAAAC/the-batman.gif",
+      "https://c.tenor.com/TKpmh4WFEsAAAAAC/alura-gaveta-filmes.gif",
+      "https://i.pinimg.com/originals/b0/7d/2d/b07d2dd1ce1a9d70338b93e9d97f1130.gif",
+      "https://res.cloudinary.com/social-comics/image/authenticated/s--a8jMB15C--/v1636118270/blog/batman_animated_884ba8ea50.gif",
+      "https://i.pinimg.com/originals/96/34/c5/9634c520c9a3cd4e7f23190bb2c96500.gif"
+    ]
+  }
